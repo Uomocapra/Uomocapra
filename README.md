@@ -15,6 +15,9 @@ documentation, and testable examples.
   added AI Contribution Policy reminders for issue and PR templates in
   [PR #12450](https://github.com/typescript-eslint/typescript-eslint/pull/12450).
   Under review.
+- [MkDocs](https://github.com/mkdocs/mkdocs):
+  clarified navigation path handling in
+  [PR #4151](https://github.com/mkdocs/mkdocs/pull/4151). Under review.
 
 ## Focus Areas
 
