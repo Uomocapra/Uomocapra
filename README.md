@@ -17,7 +17,9 @@ documentation, and testable examples.
   Under review.
 - [MkDocs](https://github.com/mkdocs/mkdocs):
   clarified navigation path handling in
-  [PR #4151](https://github.com/mkdocs/mkdocs/pull/4151). Under review.
+  [PR #4151](https://github.com/mkdocs/mkdocs/pull/4151), then followed up
+  with a targeted `draft_docs` test fixture fix in
+  [PR #4152](https://github.com/mkdocs/mkdocs/pull/4152). Under review.
 
 ## Focus Areas
 
