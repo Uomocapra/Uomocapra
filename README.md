@@ -3,15 +3,18 @@
 I work on open-source maintenance tasks around developer tooling,
 documentation, and testable examples.
 
+## Merged Contributions
+
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint):
+  added AI Contribution Policy checks for issue and pull request templates in
+  [PR #12450](https://github.com/typescript-eslint/typescript-eslint/pull/12450).
+  Merged upstream on 2026-07-01.
+
 ## Current Open Source Work
 
 - [Gradle](https://github.com/gradle/gradle):
   clarified tested JAR manifest documentation and related Javadoc examples in
   [PR #38309](https://github.com/gradle/gradle/pull/38309). Approved and awaiting merge.
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint):
-  added AI Contribution Policy checks for issue and PR templates in
-  [PR #12450](https://github.com/typescript-eslint/typescript-eslint/pull/12450).
-  Merged.
 - [MkDocs](https://github.com/mkdocs/mkdocs):
   clarified navigation path handling in
   [PR #4151](https://github.com/mkdocs/mkdocs/pull/4151), then followed up
