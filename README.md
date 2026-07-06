@@ -9,6 +9,10 @@ documentation, and testable examples.
   added AI Contribution Policy checks for issue and pull request templates in
   [PR #12450](https://github.com/typescript-eslint/typescript-eslint/pull/12450).
   Merged upstream on 2026-07-01.
+- [enhanced-resolve](https://github.com/webpack/enhanced-resolve):
+  modernized package metadata URLs in
+  [PR #620](https://github.com/webpack/enhanced-resolve/pull/620).
+  Merged upstream on 2026-07-05.
 
 ## Current Open Source Work
 
@@ -24,9 +28,6 @@ documentation, and testable examples.
   clarified a server concepts example around weather tool selection in
   [PR #2981](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2981).
   Under review after maintainer feedback.
-- [enhanced-resolve](https://github.com/webpack/enhanced-resolve):
-  modernized package metadata URLs in
-  [PR #620](https://github.com/webpack/enhanced-resolve/pull/620). Approved and awaiting merge.
 
 ## Focus Areas
 
