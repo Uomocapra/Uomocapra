@@ -28,6 +28,11 @@ documentation, and testable examples.
   clarified a server concepts example around weather tool selection in
   [PR #2981](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2981).
   Under review after maintainer feedback.
+- [capital-markets-intelligence](https://github.com/DogInfantry/capital-markets-intelligence):
+  added a generated output index page for financial dashboards, workbooks,
+  PDFs, and memos in
+  [PR #31](https://github.com/DogInfantry/capital-markets-intelligence/pull/31).
+  Under review.
 
 ## Focus Areas
 
