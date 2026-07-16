@@ -13,12 +13,13 @@ documentation, and testable examples.
   modernized package metadata URLs in
   [PR #620](https://github.com/webpack/enhanced-resolve/pull/620).
   Merged upstream on 2026-07-05.
+- [Gradle](https://github.com/gradle/gradle):
+  clarified tested JAR manifest documentation and related Javadoc examples in
+  [PR #38309](https://github.com/gradle/gradle/pull/38309).
+  Merged upstream on 2026-07-14.
 
 ## Current Open Source Work
 
-- [Gradle](https://github.com/gradle/gradle):
-  clarified tested JAR manifest documentation and related Javadoc examples in
-  [PR #38309](https://github.com/gradle/gradle/pull/38309). Approved and awaiting merge.
 - [MkDocs](https://github.com/mkdocs/mkdocs):
   clarified navigation path handling in
   [PR #4151](https://github.com/mkdocs/mkdocs/pull/4151), then followed up
