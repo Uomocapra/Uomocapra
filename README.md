@@ -17,6 +17,10 @@ documentation, and testable examples.
   clarified tested JAR manifest documentation and related Javadoc examples in
   [PR #38309](https://github.com/gradle/gradle/pull/38309).
   Merged upstream on 2026-07-14.
+- [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol):
+  clarified a server concepts example around weather tool selection in
+  [PR #2981](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2981).
+  Merged upstream on 2026-07-28.
 
 ## Current Open Source Work
 
@@ -25,10 +29,6 @@ documentation, and testable examples.
   [PR #4151](https://github.com/mkdocs/mkdocs/pull/4151), then followed up
   with a targeted `draft_docs` test fixture fix in
   [PR #4152](https://github.com/mkdocs/mkdocs/pull/4152). Under review.
-- [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol):
-  clarified a server concepts example around weather tool selection in
-  [PR #2981](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2981).
-  Under review after maintainer feedback.
 - [capital-markets-intelligence](https://github.com/DogInfantry/capital-markets-intelligence):
   added a generated output index page for financial dashboards, workbooks,
   PDFs, and memos in
