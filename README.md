@@ -1,49 +1,55 @@
-# Uomocapra
+# Qin Mi
 
-I work on open-source maintenance tasks around developer tooling,
-documentation, and testable examples.
+**Developer tooling · Web interfaces · Open-source contributions**  
+INSA Lyon · GitHub: [@Uomocapra](https://github.com/Uomocapra)
 
-## Merged Contributions
+I work on practical improvements to software: multilingual interfaces, useful automation, and documentation with verifiable examples.
 
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint):
-  added AI Contribution Policy checks for issue and pull request templates in
-  [PR #12450](https://github.com/typescript-eslint/typescript-eslint/pull/12450).
-  Merged upstream on 2026-07-01.
-- [enhanced-resolve](https://github.com/webpack/enhanced-resolve):
-  modernized package metadata URLs in
-  [PR #620](https://github.com/webpack/enhanced-resolve/pull/620).
-  Merged upstream on 2026-07-05.
-- [Gradle](https://github.com/gradle/gradle):
-  clarified tested JAR manifest documentation and related Javadoc examples in
-  [PR #38309](https://github.com/gradle/gradle/pull/38309).
-  Merged upstream on 2026-07-14.
-- [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol):
-  clarified a server concepts example around weather tool selection in
-  [PR #2981](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2981).
-  Merged upstream on 2026-07-28.
+## Featured work
 
-## Current Open Source Work
+### SQL Mother — English interface and lessons
 
-- [MkDocs](https://github.com/mkdocs/mkdocs):
-  clarified navigation path handling in
-  [PR #4151](https://github.com/mkdocs/mkdocs/pull/4151), then followed up
-  with a targeted `draft_docs` test fixture fix in
-  [PR #4152](https://github.com/mkdocs/mkdocs/pull/4152). Under review.
-- [capital-markets-intelligence](https://github.com/DogInfantry/capital-markets-intelligence):
-  added a generated output index page for financial dashboards, workbooks,
-  PDFs, and memos in
-  [PR #31](https://github.com/DogInfantry/capital-markets-intelligence/pull/31).
-  Under review.
+A localization contribution to [liyupi/sql-mother](https://github.com/liyupi/sql-mother), an interactive SQL learning app.
 
-## Focus Areas
+- Added an English interface and translations for all **45 active lessons**.
+- Implemented language preference persistence and Chinese fallback while preserving editor input, query results, and exercise state when switching languages.
+- Added translation guidance and automated checks for translation coverage and reference SQL answers.
 
-- Build tools and developer experience.
-- Python CLI tooling.
-- Documentation that includes runnable or verifiable examples.
-- Small, reviewable changes tied to clear maintainer feedback.
+**Stack:** Vue 3, TypeScript, SQL.js  
+**Status:** Open pull request; not yet merged upstream.  
+[Contribution and validation notes](https://github.com/liyupi/sql-mother/pull/74) · [Implementation branch](https://github.com/Uomocapra/sql-mother/tree/feat/i18n-english)
 
-## Working Style
+### Capital Markets Intelligence — generated output index
 
-- Prefer focused pull requests over broad rewrites.
-- Include verification commands in PR descriptions.
-- Follow up on maintainer review and keep branches current.
+A contribution to [DogInfantry/capital-markets-intelligence](https://github.com/DogInfantry/capital-markets-intelligence) that makes generated reports easier to browse.
+
+- Added a dependency-free Python generator for a local HTML index of dashboards, spreadsheets, PDFs, and memos.
+- Included descriptions, generation timestamps, tests, and quick-start documentation.
+
+**Stack:** Python, HTML  
+**Status:** Open pull request; not yet merged upstream.  
+[Contribution and validation notes](https://github.com/DogInfantry/capital-markets-intelligence/pull/31)
+
+## Selected merged contributions
+
+| Project | My contribution | Merged |
+| --- | --- | --- |
+| [Gradle](https://github.com/gradle/gradle/pull/38309) | Clarified JAR manifest configuration, Javadoc, and executable examples. | July 2026 |
+| [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2981) | Clarified tool selection and server availability in a documentation example. | July 2026 |
+| [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint/pull/12450) | Added AI contribution policy reminders to issue and PR templates. | July 2026 |
+| [webpack / enhanced-resolve](https://github.com/webpack/enhanced-resolve/pull/620) | Updated package metadata to use HTTPS repository and homepage URLs. | July 2026 |
+
+<details>
+<summary>More open contributions</summary>
+
+- MkDocs: [navigation path documentation](https://github.com/mkdocs/mkdocs/pull/4151) and a [draft documentation test fixture fix](https://github.com/mkdocs/mkdocs/pull/4152). Both pull requests are open.
+
+</details>
+
+## How I work
+
+- Keep changes focused and explain the problem they solve.
+- Include reproducible validation steps and document known limitations.
+- Use AI-assisted tools with review and disclosure according to each project's contribution policy.
+
+<sub>Contribution status last checked: 20 October 2026. Linked pull requests show the latest status.</sub>
