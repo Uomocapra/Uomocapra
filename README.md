@@ -5,7 +5,20 @@ INSA Lyon · GitHub: [@Uomocapra](https://github.com/Uomocapra)
 
 I work on practical improvements to software: multilingual interfaces, useful automation, and documentation with verifiable examples.
 
-## Featured work
+## Personal projects
+
+### [eBay CCU Operations](https://github.com/Uomocapra/ebay-ccu-operations)
+
+A local operations dashboard and automation toolkit for matching Xianyu source records with eBay listing variations.
+
+- Built bilingual ship and upgrade-route normalization, inventory reconciliation, and pricing checks.
+- Connected a Flask dashboard with CSV/SQLite records and Node.js browser tooling.
+- Published a sanitized source snapshot with synthetic fixtures and offline regression tests.
+
+**Stack:** Python, Flask, SQLite, JavaScript, Playwright  
+[Code, setup and verification](https://github.com/Uomocapra/ebay-ccu-operations) · [Publication scope](https://github.com/Uomocapra/ebay-ccu-operations/blob/main/PUBLICATION.md)
+
+## Open-source project work
 
 ### SQL Mother — English interface and lessons
 
